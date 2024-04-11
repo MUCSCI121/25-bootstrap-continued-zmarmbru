@@ -1,12 +1,20 @@
-# CodespacesWebTemplate
+# Lecture 24 Practice
+In this practice we are going to create a webpage with a Bootstrap Navbar that automatically transitions from desktop layout to mobil layout.  It will also have a form which utilizes the Bootstrap Grid to layout the form elements.  The Bootstrap Form elements will include validation messages and when the user clicks the submit button a modal will appear if the form is valid.
 
-Provides the basic configuration to launch a GitHub Codespace environment ready for HTML, CSS, and JavaScript coding. The project will spin up a Codespace with the following plugins:
+![video](.assets/lecture24Demo.mp4)
 
-- [Prettier](https://github.com/prettier/prettier-vscode)
-- [LiveServer](https://github.com/ritwickdey/vscode-live-server)
-- [GitDoc](https://github.com/lostintangent/gitdoc)
+## Notes
+* The the links in the Navbar should go to the appropriate Bootstrap, W3Schools, and Mozilla Developer Network pages.
+* Form validation requires JavaScript code added to perform the validation.  It is located below the example form on the Validation page.
 
-The **Prettier** plugin helps format your code to a consistent style. The **LiveServer** plugin will launch a local web server to host your web pages. The server will automatically refresh the page when you save your changes. the **GitDoc** plugin allows you to automatically commit and push your changes to your repository on a periodic basis. To enable the **GitDoc** plugin you will need to go to update the Settings configuration for it.
+## References
+* [Quick Start](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [Navbar](https://getbootstrap.com/docs/5.3/components/navbar/)
+* [Grid](https://getbootstrap.com/docs/5.3/layout/grid/)
+* [Form](https://getbootstrap.com/docs/5.3/forms/overview/)
+* [Spacing](https://getbootstrap.com/docs/5.3/utilities/spacing/)
+* [Modal](https://getbootstrap.com/docs/5.3/components/modal/)
+----
 
 ## Configuration
 
