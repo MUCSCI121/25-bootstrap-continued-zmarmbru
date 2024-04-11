@@ -1,7 +1,7 @@
 # Lecture 24 Practice
 In this practice we are going to create a webpage with a Bootstrap Navbar that automatically transitions from desktop layout to mobil layout.  It will also have a form which utilizes the Bootstrap Grid to layout the form elements.  The Bootstrap Form elements will include validation messages and when the user clicks the submit button a modal will appear if the form is valid.
 
-![video](.assets/lecture24Demo.mp4)
+![image](.assets/lecture24Demo.gif)
 
 ## Notes
 * The the links in the Navbar should go to the appropriate Bootstrap, W3Schools, and Mozilla Developer Network pages.
